@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportHeight="24"
+    android:viewportWidth="24">
+
+    <group android:name="down">
+        <path
+            android:fillColor="@color/inlineActionIcon"
+            android:pathData="M7.92,18h10l4,4V8a1,1,0,0,0-1-1h-13a1,1,0,0,0-1,1v9A1,1,0,0,0,7.92,18ZM"
+            android:strokeColor="@color/colorBackgroundLight"
+            android:strokeWidth="2"/>
+    </group>
+
+    <group android:name="up">
+        <path
+            android:fillColor="@color/inlineActionIcon"
+            android:pathData="M17,12V3a1,1,0,0,0-1-1H3A1,1,0,0,0,2,3V17l4-4H16A1,1,0,0,0,17,12Z"
+            android:strokeColor="@color/colorBackgroundLight"
+            android:strokeWidth="2"/>
+    </group>
+
+
+
+</vector>

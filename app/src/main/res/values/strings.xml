@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shower Thoughts</string>
+    <string name="quote">%1$s</string>
+    <string name="author">u/%1$s</string>
+    <string name="separator">\u25CF</string>
+    <plurals name="comments">
+        <item quantity="one">%d Comment</item>
+        <item quantity="other">%d Comments</item>
+    </plurals>
+    <plurals name="points">
+        <item quantity="one">%d Point</item>
+        <item quantity="other">%d Points</item>
+    </plurals>
+    <string name="share">Share</string>
+    <string name="sad_emoji">:(</string>
+    <string name="reload">Reload</string>
+    <string name="err_msg">There was an error reaching Reddit.</string>
+</resources>

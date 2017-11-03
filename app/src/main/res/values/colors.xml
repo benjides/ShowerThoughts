@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#304FFE</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorError">#DD2C00</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorBackgroundLight">#FAFAFA</color>
+    <color name="darkGrey">#424242</color>
+    <color name="midGrey">#757575</color>
+    <color name="inlineActionIcon">#757575</color>
+</resources>

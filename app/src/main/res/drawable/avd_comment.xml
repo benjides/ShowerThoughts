@@ -1,0 +1,13 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_comment">
+
+    <target
+        android:name="down"
+        android:animation="@animator/comment_down" />
+
+    <target
+        android:name="up"
+        android:animation="@animator/comment_up" />
+
+</animated-vector>
