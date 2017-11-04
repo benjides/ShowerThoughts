@@ -66,8 +66,7 @@ public class Post {
             Calendar calendar = Calendar.getInstance();
             calendar.setTimeInMillis(date * 1000);
             calendar.setTimeZone(TimeZone.getDefault());
-            post.date = calendar.getTime();
-            //post.date = new Date(date * 1000L + TimeZone.getDefault().getRawOffset());
+            post.date = new Date(date * 1000L + TimeZone.getDefault().getRawOffset());
             return this;
         }
 
